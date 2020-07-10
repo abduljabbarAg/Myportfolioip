@@ -19,7 +19,7 @@ You may also Need one of the below browsers
 You can view the material by acessing the link below.
 
 ```
-https://abduljabbarag.github.io/Myportfolioip
+- [My Portfolio] (https://abduljabbarag.github.io/Myportfolioip)
 
 ```
 
