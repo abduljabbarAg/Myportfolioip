@@ -71,3 +71,13 @@ ul {
   .active {
     background-color: #4CAF50;
   }
+
+  /*Footer Settings*/
+footer {
+    text-align: center;
+    padding: 1px;
+    background-color: #c7c7c7;
+  }
+  footer p {
+    font-size: 0.75rem;
+  }
