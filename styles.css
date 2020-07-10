@@ -5,3 +5,44 @@
         font-size: 0.5em;
         padding: 0;
     }
+    /* Body Styling*/
+}
+
+body {
+    background-color: rgb(226, 222, 222);
+  }
+  p {
+    border: 1Px solid rgb(209, 208, 208);
+    padding: 30px;
+  }
+
+  .header {
+    padding: 10px;
+    text-align: center;
+    background: #61817b;
+    color: white;
+    font-size: 30px;
+  }
+
+  .header2 {
+    padding: 1px;
+    text-align: center;
+    background: #a88a76;
+    color: rgb(3, 3, 3);
+    font-size: 20px;
+  }
+
+  .header3 {
+    padding: 1px;
+    text-align: center;
+    background: #a3b9b5;
+    color: rgb(3, 3, 3);
+    font-size: 20px;
+  }
+  .header4 {
+    padding: 1px;
+    text-align: center;
+    background: #887f79;
+    color: rgb(3, 3, 3);
+    font-size: 20px;
+  }
