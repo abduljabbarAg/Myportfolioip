@@ -19,16 +19,13 @@ You may also Need one of the below browsers
 You can view the material by acessing the link below.
 
 ```
-https://abduljabbarag.github.io/Myportfolioip/.
+https://abduljabbarag.github.io/Myportfolioip
+
 ```
 
 ## Known Bugs and Issues
 
 There are no known bugs as of yet.
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
