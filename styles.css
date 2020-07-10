@@ -5,6 +5,8 @@
         font-size: 0.5em;
         padding: 0;
     }
+
+    
     /* Body Styling*/
 }
 
@@ -46,10 +48,18 @@ body {
     color: rgb(3, 3, 3);
     font-size: 20px;
   }
+/* Image settings*/
 
-/* Navigation bar settings */
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
 
-ul {
+  /* Navigation bar settings */
+
+  ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -72,7 +82,15 @@ ul {
     background-color: #4CAF50;
   }
 
-  /*Footer Settings*/
+
+/*Grid Settings*/
+  .grid-wrapper {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    grid-gap: 5px;
+}
+
+/*Footer Settings*/
 footer {
   text-align: center;
   padding: 1px;
@@ -81,11 +99,3 @@ footer {
 footer p {
   font-size: 0.75rem;
 }
-/* Image settings*/
-
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
-  }
